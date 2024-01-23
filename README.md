@@ -1,4 +1,7 @@
 ### Hi there 👋
+I'm currently studying computer science at Queen's University!
+I'm a full stack developer, profiecient in React and Express.
+Right now I'm looking into AI development and Data Science, as those are the topics that interest me most in the field!
 
 <!--
 **LIamB12/LIamB12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
