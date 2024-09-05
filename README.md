@@ -1,5 +1,5 @@
 ### Hi, I'm Liam!  👋
-I'm a third year computer science student at Queen’s University. Some of my biggest interests in the field right now are cloud computing, security, data science, and web development. I'm super excited to meet more people in the space, and my messages are always open!
+I'm a third year computer science student at Queen’s University. Some of my biggest interests in the field right now are cloud computing, security, data science, and web development. I love meeting new people in the space, my messages are always open!
 <!--
 **LIamB12/LIamB12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
